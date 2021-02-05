@@ -4,4 +4,4 @@ Simple app from the book Full Stack React Native that builds a Pie Chart using n
 
 iOS Version | Android Version
 -- | --
-<img src="assets/iOS.png" width="300">|<img src="assets/android.png" width="300"/>
+<img src="assets/iOS.png" width="300">|<img src="assets/Android.png" width="300">
